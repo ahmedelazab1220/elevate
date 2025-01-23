@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'Features/home/presentation/view/home_screen.dart';
 
@@ -11,10 +12,15 @@ class Elevate extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+    return ScreenUtilInit(
+      designSize: const Size(360, 910),
+      minTextAdapt: true,
+      splitScreenMode: true,
+      child: MaterialApp(
+        title: 'Flutter Demo',
+        debugShowCheckedModeBanner: false,
+        home: HomeScreen(),
+      ),
     );
   }
 }
