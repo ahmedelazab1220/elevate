@@ -129,9 +129,3 @@ elevate/
 - Flutter Community: <a href = "https://medium.com/flutter-community"> Flutter Community </a>
 
 - Flutter Cookbook: <a href = "https://docs.flutter.dev/cookbook"> Useful Flutter Samples </a>
-
-## 🙏 Acknowledgments
-
-- A big thank you to the Flutter team and the open-source community for their incredible work.
-
-- Special thanks to all contributors who have helped make this project better.
