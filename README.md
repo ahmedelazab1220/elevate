@@ -99,7 +99,7 @@ elevate/
 
 ```
 
-### 🧩 Core Components
+## 🧩 Core Components
 
 1. Core Folder
 
@@ -121,7 +121,7 @@ elevate/
 
     - view_model/: Cubit logic and states (home_cubit.dart, home_state.dart).
 
-### 📚 Resources
+## 📚 Resources
 
 - Flutter Documentation: <a href = "https://docs.flutter.dev/"> Official Flutter Docs </a>
 
@@ -131,7 +131,7 @@ elevate/
 
 - Flutter Cookbook: <a href = "https://docs.flutter.dev/cookbook"> Useful Flutter Samples </a>
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - A big thank you to the Flutter team and the open-source community for their incredible work.
 
