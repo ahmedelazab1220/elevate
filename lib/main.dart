@@ -1,9 +1,11 @@
+import 'package:elevate/Core/utils/dependency_injection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'Features/home/presentation/view/home_screen.dart';
 
 void main() {
+  setup();
   runApp(const Elevate());
 }
 
