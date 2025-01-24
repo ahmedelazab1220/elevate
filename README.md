@@ -1,4 +1,4 @@
-# Elevate - Your Flutter Project
+# Elevate - Flutter Project
 
 Welcome to Elevate, a Flutter project built with the MVVM (Model-View-ViewModel) architecture and Cubit for state management. This project is designed to help you build scalable, maintainable, and testable cross-platform applications.
 
