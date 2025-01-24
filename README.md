@@ -93,7 +93,6 @@ elevate/
 │   │
 │   ├── main.dart                 # Entry point of the application
 │
-├── assets/                       # Static assets like images, fonts, etc.
 ├── test/                         # Unit and widget tests
 └── pubspec.yaml                  # Project dependencies and metadata
 
