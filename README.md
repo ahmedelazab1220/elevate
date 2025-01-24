@@ -4,7 +4,7 @@ Welcome to Elevate, a Flutter project built with the MVVM (Model-View-ViewModel)
 
 ## Getting Started
 
-🖼️ Screenshots
+### 🖼️ Screenshots
 
 Here are the app's loading, success, and failure states:
 
@@ -28,7 +28,7 @@ Here are the app's loading, success, and failure states:
   </tr>
 </table>
 
-# 🛠️ Core Features
+### 🛠️ Core Features
 
 - **`MVVM Architecture`** : Clean and scalable architecture for better separation of concerns.
 
@@ -38,7 +38,7 @@ Here are the app's loading, success, and failure states:
 
 - **`Error Handling`** : Centralized error handling for better debugging and user experience.
 
-# 📂 Project Structure
+### 📂 Project Structure
 
 Here's an overview of the project structure:
 
@@ -99,7 +99,7 @@ elevate/
 
 ```
 
-# 🧩 Core Components
+### 🧩 Core Components
 
 1. Core Folder
 
@@ -121,7 +121,7 @@ elevate/
 
     - view_model/: Cubit logic and states (home_cubit.dart, home_state.dart).
 
-# 📚 Resources
+### 📚 Resources
 
 - Flutter Documentation: <a href = "https://docs.flutter.dev/"> Official Flutter Docs </a>
 
@@ -131,7 +131,7 @@ elevate/
 
 - Flutter Cookbook: <a href = "https://docs.flutter.dev/cookbook"> Useful Flutter Samples </a>
 
-# 🙏 Acknowledgments
+### 🙏 Acknowledgments
 
 - A big thank you to the Flutter team and the open-source community for their incredible work.
 
